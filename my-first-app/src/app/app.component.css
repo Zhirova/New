@@ -1,0 +1,23 @@
+body {
+  background-color:#AFEEEE
+}
+img {
+  border-style:solid;
+  width:200;
+  heigh:200
+}
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+h1, h2 {
+  margin-top: 10mm;
+  font-family: Arial;
+  text-align: center;
+  font-size: 22pt
+}
+p {
+  text-indent: 1.25cm;
+  font-family: Georgia;
+  font-size: 14pt;
+}
